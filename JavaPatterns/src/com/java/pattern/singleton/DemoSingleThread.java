@@ -1,7 +1,7 @@
 package com.java.pattern.singleton;
 
 /**
- * @author efren
+ * @author Cyb3rh4ck
  *
  */
 public class DemoSingleThread {
