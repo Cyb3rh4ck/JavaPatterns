@@ -1,5 +1,2 @@
-# JavaPatterns
-Design patterns represent the best practices used by experienced object-oriented software developers. Design patterns are solutions to general problems that software developers faced during software development.
-
-
-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
+## Definición de Patrón de Diseño
+> Un patrón de diseño son las técnicas que nos permiten resolver problemas comunes en ele mundo de la programación.
